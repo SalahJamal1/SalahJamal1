@@ -13,10 +13,8 @@ Right now, I’m crafting powerful digital solutions using **Java Spring Boot, .
 💼 Full Stack Developer | Web & Mobile Development  
 💡 Passionate about solving real-world problems through technology  
 
-📧 **Email:** [salahabufarha1996@outlook.com](mailto:salahabufarha1996@outlook.com)  
+📧 **Email:** salahabufarha1996@outlook.com
 📞 **Phone:** +962-796089296  
-🔗 **[Portfolio](#)** | **[LinkedIn](#)** | **[GitHub](#)**  
-
 ---
 
 ### ⚡ Featured Projects  
@@ -44,16 +42,6 @@ A full-stack mobile food ordering app with secure backend and account management
 **DevOps:** Docker, CI/CD, Jenkins, Kubernetes  
 **Tools & Platforms:** Git, GitHub, Maven, Postman  
 **Core Concepts:** Object-Oriented Programming (OOP)  
-
----
-
-### 🎓 Education  
-🎓 **Balqa Applied University** — *B.S. in Accounting* (2015 – 2018)  
-
----
-
-### 🌐 Languages  
-🗣️ Arabic | 💬 English  
 
 ---
 
