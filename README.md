@@ -14,7 +14,7 @@ Right now, I’m crafting powerful digital solutions using **Java Spring Boot, .
 💡 Passionate about solving real-world problems through technology  
 
 📧 **Email:** salahabufarha1996@outlook.com
-📞 **Phone:** +962-796089296  
+📞 **Phone:** +962796089296  
 ---
 
 ### ⚡ Featured Projects  
