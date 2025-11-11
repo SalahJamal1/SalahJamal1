@@ -17,22 +17,6 @@ Right now, I’m crafting powerful digital solutions using **Java Spring Boot, .
 📞 **Phone:** +962796089296  
 ---
 
-### ⚡ Featured Projects  
-
-🍴 **Restaurant – Interactive Ordering App**  
-A smart ordering system with real-time order tracking and secure authentication  
-🔹 **Tech:** Java, Spring Boot, Spring Security, SQL, Hibernate, Next.js  
-
-🌍 **NATOURS – Tour Management Platform**  
-A tour booking platform built with MERN Stack and JWT authentication  
-🔹 **Tech:** MongoDB, Express, React, Node.js, TypeScript  
-
-📱 **Quick Dish Mobile**  
-A full-stack mobile food ordering app with secure backend and account management  
-🔹 **Tech:** C#, ASP.NET, SQL, React Native, Expo  
-
----
-
 ### 🧠 Skills  
 
 **Frontend:** HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Next.js, Redux, Tailwind CSS  
