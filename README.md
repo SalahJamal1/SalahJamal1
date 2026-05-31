@@ -10,7 +10,7 @@ Right now, I’m crafting powerful digital solutions using **Java Spring Boot, .
 
 ### 🌍 About Me  
 📍 Based in Amman, Jordan  
-💼 Full Stack Developer | Web & Mobile Development  
+💼 Full Stack Developer | Web & Mobile Development | Data & AI
 💡 Passionate about solving real-world problems through technology  
 
 📧 **Email:** salahabufarha1996@outlook.com
@@ -21,7 +21,8 @@ Right now, I’m crafting powerful digital solutions using **Java Spring Boot, .
 
 **Frontend:** HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Next.js, Redux, Tailwind CSS  
 **Mobile:** React Native, Expo  
-**Backend:** Java, Spring Boot, C#, ASP.NET, Node.js, Express.js, RESTful APIs, JWT, Spring Security  
+**Backend:** Java, Spring Boot, C#, ASP.NET, Node.js, Express.js, RESTful APIs, JWT, Spring Security
+**Data Science & AI:** Python, Pandas, NumPy, Matplotlib, PyTorch
 **Database:** MySQL, MongoDB, JPA/Hibernate  
 **DevOps:** Docker, CI/CD, Jenkins, Kubernetes  
 **Tools & Platforms:** Git, GitHub, Maven, Postman  
