@@ -10,7 +10,7 @@ Right now, I’m crafting powerful digital solutions using **Java Spring Boot, .
 
 ### 🌍 About Me  
 📍 Based in Amman, Jordan  
-💼 Full Stack Developer | Web & Mobile Development | Data & AI
+💼 Full Stack Developer | Web & Mobile Development | Data & AI 
 💡 Passionate about solving real-world problems through technology  
 
 📧 **Email:** salahabufarha1996@outlook.com
