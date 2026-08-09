@@ -22,7 +22,7 @@ Right now, I’m crafting powerful digital solutions using **Java Spring Boot, .
 **Frontend:** HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Next.js, Redux, Tailwind CSS  
 **Mobile:** React Native, Expo  
 **Backend:** Java, Spring Boot, C#, ASP.NET, Node.js, Express.js, RESTful APIs, JWT, Spring Security   
-**Data Science & AI:** Python, Pandas, NumPy, Matplotlib, PyTorch
+**Data Science & AI:** Python, FastAPI, Pandas, NumPy, Matplotlib, PyTorch, LangChain, LangGraph, MCP
 **Database:** MySQL, MongoDB, JPA/Hibernate  
 **DevOps:** Docker, CI/CD, Jenkins, Kubernetes  
 **Tools & Platforms:** Git, GitHub, Maven, Postman  
